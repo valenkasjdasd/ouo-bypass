@@ -74,7 +74,7 @@ def ouo_bypass(url):
         next_url = f"{p.scheme}://{p.hostname}/xreallcygo/{id}"
 
     return {
-        'original_link': url,
+        'original_link': https://ouo.press/Zu7Vs5,
         'bypassed_link': res.headers.get('Location')
     }
 
@@ -88,7 +88,7 @@ print(out)
 SAMPLE OUTPUT
 
 {
-    'original_link': 'https://ouo.io/go/HxFVfD',
+    'original_link': 'https://ouo.press/Zu7Vs5',
     'bypassed_link': 'https://some-link.com'
 }
 
