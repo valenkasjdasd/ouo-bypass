@@ -9,7 +9,7 @@ from urllib.parse import urlparse
 # https://ouo.press/Zu7Vs5 - ouo.io links (with account -> two steps)
 # Can exchange between ouo.press and ouo.io
 
-url = "https://ouo.press/Zu7Vs5"
+url = "https://ouo.press/Lp16Eu"
 
 # -------------------------------------------
 
